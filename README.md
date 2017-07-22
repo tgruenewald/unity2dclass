@@ -1,6 +1,21 @@
 # unity2dclass
 Materials for Unity 2D Platformer class
 
+# Flip
+
+
+	private bool facingRight = true;
+		if (move > 0 && !facingRight)
+        {
+            Flip();
+        }
+        else if (move < 0 && facingRight)
+        {
+            Flip();
+        }
+
+
+
     void Flip()
     {
         //Debug.Log("switching...");
