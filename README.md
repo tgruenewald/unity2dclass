@@ -2,7 +2,9 @@
 Materials for Unity 2D Platformer class
 
 Fully complete code:  https://github.com/tgruenewald/2dclass_day1
+
 My site:  www.daretogame.net
+
 Ludum Dare:  www.ldjam.com   
 
 
